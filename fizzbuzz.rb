@@ -8,7 +8,6 @@ def fizzbuzz(x)
   elsif x % 15 == 0
     puts "FizzBuzz"
 
-  else 
+  else
     puts "nil"
-
 end
